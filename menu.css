@@ -1,0 +1,11 @@
+body {
+    background-image: url("pizza.jpg");
+    background-repeat: no-repeat;
+    background-color: #3B3E40;
+    background-size: cover;
+}
+
+.img {
+    height: 200px;
+    width: auto;
+}
